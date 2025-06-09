@@ -1,4 +1,4 @@
-# Admission Management System (C Project)
+# Admission Management System (C++ Project)
 
 ## Features
 - Login system (admin/admin123)
