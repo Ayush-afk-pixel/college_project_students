@@ -76,5 +76,9 @@ This project is free to use for educational purposes. Please credit if reused or
 **Enjoy easy marks — free to copy! lol 🎓📄**
 
 ---
+## 🙋‍♂️ Credits
 
-*Let me know if you’d like to turn this into a GitHub Pages project or need a PDF version to submit with documentation.*
+This project was created by **Ayush Gupta** as a basic C project for a friend’s college assessment.
+
+- GitHub: [github.com/Ayush-afk-pixel](https://github.com/Ayush-afk-pixel)
+- Email: ayush.gupta021004@gmail.com
